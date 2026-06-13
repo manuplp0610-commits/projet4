@@ -1,0 +1,30 @@
+ PERFORMANCE
+
+- Compresser toutes les images
+- Convertir les images en WebP
+- Redimensionner les images à leur taille d'affichage
+- Ajouter width et height explicites sur les balises <img>
+- Ajouter fetchpriority="high" sur l'image du slider visible en premier
+- Minifier le fichier bootstrap.bundle.js et bootstrap.css
+- Supprimer ou différer les JS/CSS Bootstrap non utilisés
+
+ACCESSIBILITE
+
+- Ajouter <title> (commun avec SEO)
+- Ajouter l'attribut lang sur la balise <html>
+- Ajouter des <label> associés aux champs du formulaire
+- Ajouter un texte visible ou aria-label sur le lien Instagram
+- Ajouter un attribut alt sur l'image Instagram dans la nav
+- Corriger la hiérarchie des titres
+- Ajouter un élément <main>
+- Corriger le contraste du texte sur le bouton de filtre actif (.active-tag)
+
+SEO
+
+- Ajouter une balise <title> dans le <head>
+- Ajouter une balise <meta name="description" content="..."> dans le <head>
+- Ajouter l'attribut alt sur toutes les images (11 images concernées)
+
+SOCIAL
+
+- Ajouter les balises meta pour les réseaux sociaux

@@ -13,3 +13,14 @@ $(document).ready(function () {
     tagsPosition: "top",
   });
 });
+
+const btnfiltre = document.querySelectorAll(".nav-item");
+
+btnfiltre.forEach((btn) => {
+  btn.addEventListener("click", () => {
+    btnfiltre.forEach((b) => {
+      b.style.background = "";
+    });
+    btn.style.background = "orange";
+  });
+});

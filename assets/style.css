@@ -17,7 +17,6 @@ body {
   padding-block: 30px;
   align-items: center;
 }
-
 .top-header .name {
   font-size: 26px;
 }
@@ -88,10 +87,6 @@ body {
   width: 80%;
   font-size: 14px;
 }
-
-#gallery {
-  /*	min-height: 100vh; */
-}
 .title {
   text-align: center;
   padding-block: 2em;
@@ -99,12 +94,14 @@ body {
 .gallery .nav {
   justify-content: center;
 }
-.nav-pills .nav-link.active,
+
+.nav-pills .nav-link.active-tag,
 .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #beb45a;
   border-radius: 0;
 }
+
 .nav-pills .nav-link {
   color: #000;
 }
