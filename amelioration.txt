@@ -21,10 +21,10 @@ ACCESSIBILITE
 
 SEO
 
-- Améliorer la structure du html
-- Ajouter une balise <title> dans le <head>
-- Ajouter une balise <meta name="description" content="..."> dans le <head>
-- Ajouter l'attribut alt sur toutes les images (11 images concernées)
+V - Améliorer la structure du html
+V - Ajouter une balise <title> dans le <head>
+V - Ajouter une balise <meta name="description" content="..."> dans le <head>
+V - Ajouter l'attribut alt sur toutes les images (11 images concernées)
 
 SOCIAL
 
