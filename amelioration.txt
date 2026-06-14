@@ -10,14 +10,14 @@ V - Ajouter fetchpriority="high" sur l'image du slider visible en premier
 
 ACCESSIBILITE
 
-- Ajouter <title> (commun avec SEO)
-- Ajouter l'attribut lang sur la balise <html>
+V - Ajouter <title> (commun avec SEO)
+V - Ajouter l'attribut lang sur la balise <html>
 - Ajouter des <label> associés aux champs du formulaire
 - Ajouter un texte visible ou aria-label sur le lien Instagram
-- Ajouter un attribut alt sur l'image Instagram dans la nav
+V - Ajouter un attribut alt sur l'image Instagram dans la nav
 - Corriger la hiérarchie des titres
-- Ajouter un élément <main>
-- Corriger le contraste du texte sur le bouton de filtre actif (.active-tag)
+V - Ajouter un élément <main>
+V - Corriger le contraste du texte sur le bouton de filtre actif (.active-tag)
 
 SEO
 
