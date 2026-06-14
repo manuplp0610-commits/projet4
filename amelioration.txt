@@ -12,10 +12,10 @@ ACCESSIBILITE
 
 V - Ajouter <title> (commun avec SEO)
 V - Ajouter l'attribut lang sur la balise <html>
-- Ajouter des <label> associés aux champs du formulaire
+V - Ajouter des <label> associés aux champs du formulaire
 - Ajouter un texte visible ou aria-label sur le lien Instagram
 V - Ajouter un attribut alt sur l'image Instagram dans la nav
-- Corriger la hiérarchie des titres
+V - Corriger la hiérarchie des titres
 V - Ajouter un élément <main>
 V - Corriger le contraste du texte sur le bouton de filtre actif (.active-tag)
 
