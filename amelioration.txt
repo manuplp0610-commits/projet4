@@ -1,10 +1,10 @@
  PERFORMANCE
 
-- Compresser toutes les images
-- Convertir les images en WebP
-- Redimensionner les images à leur taille d'affichage
-- Ajouter width et height explicites sur les balises <img>
-- Ajouter fetchpriority="high" sur l'image du slider visible en premier
+V - Compresser toutes les images
+     Convertir les images en WebP
+     Redimensionner les images à leur taille d'affichage
+V - Ajouter width et height explicites sur les balises <img>
+V - Ajouter fetchpriority="high" sur l'image du slider visible en premier
 - Minifier le fichier bootstrap.bundle.js et bootstrap.css
 - Supprimer ou différer les JS/CSS Bootstrap non utilisés
 
@@ -21,6 +21,7 @@ ACCESSIBILITE
 
 SEO
 
+- Améliorer la structure du html
 - Ajouter une balise <title> dans le <head>
 - Ajouter une balise <meta name="description" content="..."> dans le <head>
 - Ajouter l'attribut alt sur toutes les images (11 images concernées)
@@ -28,3 +29,8 @@ SEO
 SOCIAL
 
 - Ajouter les balises meta pour les réseaux sociaux
+
+DEMANDE CLIENT
+
+V - Dépanneer la modale
+V - Dépanner les boutons filtres
