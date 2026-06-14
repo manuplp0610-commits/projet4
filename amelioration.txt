@@ -5,6 +5,7 @@ V - Compresser toutes les images
      Redimensionner les images à leur taille d'affichage
 V - Ajouter width et height explicites sur les balises <img>
 V - Ajouter fetchpriority="high" sur l'image du slider visible en premier
+V - Ajouter defer dans les script
 - Minifier le fichier bootstrap.bundle.js et bootstrap.css
 - Supprimer ou différer les JS/CSS Bootstrap non utilisés
 
