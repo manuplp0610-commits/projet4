@@ -36,10 +36,6 @@ body {
 .social-link img {
   width: 20px;
 }
-.carousel-indicators button {
-  background: #6b5e1b !important;
-  height: -10px !important;
-}
 #about {
   display: flex;
   background-color: #f6d2b8;
